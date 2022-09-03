@@ -22,6 +22,7 @@ public class Greeter {
 
   public static void main(String[] args) {
     int z = 0;
+    int x = 1;
     String language = args[0];
     String country = args[1];
     String name = args[2];
